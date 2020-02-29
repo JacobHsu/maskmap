@@ -1,5 +1,10 @@
 # maskmap
 
+[leaflet](https://leafletjs.com/) an open-source JavaScript library
+for mobile-friendly interactive maps
+
+`yarn add axios vue-axios`
+
 ## Project setup
 ```
 yarn install
